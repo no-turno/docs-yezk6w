@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-74u7x9.pdkconstructionwa.com/sitemap.xml
